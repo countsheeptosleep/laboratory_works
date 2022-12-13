@@ -153,7 +153,7 @@ Use algorithms:
 
 **💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs_2.cpp)**
 
-## 6️⃣ Индексная сортировка / Index sort (lr_index_sort):
+## 7️⃣ Индексная сортировка / Index sort (lr_index_sort):
 Реализовать структуру данных "Самолет":
 - Марка
 - Бортовой номер
@@ -166,7 +166,7 @@ Use algorithms:
 - по номеру рейса
 - по времени посадки
 
-**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)**
 ____
 
 Implement the "Airplane" data structure:
@@ -181,4 +181,23 @@ Perform an index sort:
 - by flight number
 - by landing time
 
-**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)**
+
+## 8️⃣ Матрицы / Matrices (lr_matrices):
+Реализовать:
+
+- ввод квадратной матрицы из консоли с **входным контролем**
+- ввод квадратной матрицы из файла с **входным контролем**
+- заполнение квадратной матрицы случайными числами
+- нахождение суммы отрезков строк до главной диагонали в которых нет отрицательных элементов, а также строки с минимальной такой суммой
+
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_matrices.cpp)**
+____
+Implement:
+
+- square matrix input from console with **input control**
+- input of a square matrix from a file with **input control**
+- filling a square matrix with random numbers
+- finding the sum of line segments up to the main diagonal in which there are no negative elements, as well as lines with the minimum such sum
+
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_matrices.cpp)**

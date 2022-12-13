@@ -13,7 +13,7 @@ ____
 Должны быть представлены промежуточные результаты.
 По каждому кратчайшему пути указать предшествующие вершины.
 
-**💻[Открыть код (lr_graphs.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
 ____
 *For a weighted directed graph, implement:*
 - *algorithm for finding the shortest path - Dijkstra's algorithm*
@@ -22,7 +22,7 @@ ____
 *Intermediate results must be presented.*
 *For each shortest path, indicate the previous vertices.*
 
-**💻[Open code (lr_graphs.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
 
 ## 2️⃣ Очереди / Queues (lr_queues):
 Программно реализовать очередь с приоритетами в виде линейного списка с символьными элементами.

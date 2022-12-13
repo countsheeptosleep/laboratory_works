@@ -13,12 +13,12 @@ ____
 Должны быть представлены промежуточные результаты.
 По каждому кратчайшему пути указать предшествующие вершины.
 ____
-*For a weighted directed graph, implement:
+___For a weighted directed graph, implement:
 - algorithm for finding the shortest path - Dijkstra's algorithm
 - making the same graph undirected, build its minimum cost spanning tree - Prim's algorithm
 
 Intermediate results must be presented.
-For each shortest path, indicate the previous vertices.*
+For each shortest path, indicate the previous vertices.___
 
 ## lr_queues - Очереди:
 Программно реализовать очередь с приоритетами в виде линейного списка с символьными элементами.

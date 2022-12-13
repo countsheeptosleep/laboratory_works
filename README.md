@@ -1,5 +1,5 @@
-# Laboratory works
-Laboratory work in C++ for the institute (Лабораторные работы на C++ для института)
+# Лабораторные работы
+Лабораторные работы на C++ для института (Laboratory works in C++ for the institute)
 
 # lr_graphs - Графы:
 

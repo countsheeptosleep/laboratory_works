@@ -20,7 +20,7 @@ ____
 *Intermediate results must be presented.*
 *For each shortest path, indicate the previous vertices.*
 
-## Очереди / Queues (lr_queues):
+## 2️⃣ Очереди / Queues (lr_queues):
 Программно реализовать очередь с приоритетами в виде линейного списка с символьными элементами.
 Выполнение операций организовать с помощью меню:
 - создание очереди;
@@ -43,7 +43,7 @@ ____
 
 *Priorities can be set arbitrarily as integers. The lowest value has the highest priority. Priority match - allowed*
 
-## Списки / Lists (lr_lists):
+## 3️⃣ Списки / Lists (lr_lists):
 Реализовать линейный список, состоящий из 20 элементов заданного типа. Интерфейс должен включать следующие операции:
 - создание списка;
 - вывод на экран и/или в файл значений элементов списка с их индексами (номерами);
@@ -62,7 +62,7 @@ ____
 - *Removing an element from the beginning of the list.*
 *After performing the include or remove operations, display the contents of the list. Organize operations using the menu.*
 
-## Поиск / Search (lr_search):
+## 4️⃣ Поиск / Search (lr_search):
 Цель работы - изучить основные принципы работы алгоритмов поиска, исследовать их свойства: 
 - алгоритм BLS - последовательный поиск (Better_Linear_Search);
 - алгоритм SLS - быстрый последовательный поиск (Sentinel_Linear);

@@ -152,3 +152,33 @@ Use algorithms:
 - Prima
 
 **💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs_2.cpp)**
+
+## 6️⃣ Индексная сортировка / Index sort (lr_index_sort):
+Реализовать структуру данных "Самолет":
+- Марка
+- Бортовой номер
+- Номер рейса
+- Время посадки
+
+Осуществить считывание данных с **входным контролем**.
+
+Произвести индексную сортировку:
+- по номеру рейса
+- по времени посадки
+
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)
+____
+## 7️⃣ Index sort / Index sort (lr_index_sort):
+Implement the "Airplane" data structure:
+- Brand
+- Board number
+- Flight number
+- Landing time
+
+Perform data reading with **input control**.
+
+Perform an index sort:
+- by flight number
+- by landing time
+
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)

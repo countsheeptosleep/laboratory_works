@@ -12,6 +12,8 @@ ____
 
 Должны быть представлены промежуточные результаты.
 По каждому кратчайшему пути указать предшествующие вершины.
+
+**[Открыть код (lr_graphs.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
 ____
 *For a weighted directed graph, implement:*
 - *algorithm for finding the shortest path - Dijkstra's algorithm*
@@ -20,7 +22,7 @@ ____
 *Intermediate results must be presented.*
 *For each shortest path, indicate the previous vertices.*
 
-**[Открыть код (lr_graphs)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
+**[Open code (lr_graphs.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
 
 ## 2️⃣ Очереди / Queues (lr_queues):
 Программно реализовать очередь с приоритетами в виде линейного списка с символьными элементами.
@@ -33,6 +35,8 @@ ____
 После выполнения операций включения или выборки вывести новое содержимое очереди. 
 
 Приоритеты задать произвольно в виде целых чисел. Наивысший приоритет у меньшего значения. Совпадение приоритетов - разрешено
+
+**[Открыть код (lr_queues.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
 ____
 *Implement a priority queue as a linear list with character elements.*
 *Organize operations using the menu:*
@@ -45,6 +49,8 @@ ____
 
 *Priorities can be set arbitrarily as integers. The lowest value has the highest priority. Priority match - allowed*
 
+**[Open code (lr_queues.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
+
 ## 3️⃣ Списки / Lists (lr_lists):
 Реализовать линейный список, состоящий из 20 элементов заданного типа. Интерфейс должен включать следующие операции:
 - создание списка;
@@ -54,6 +60,8 @@ ____
 - Включение нового элемента в начало списка.
 - Удаление элемента из начала списка.
 После выполнения операций включения или удаления вывести содержимое списка. Выполнение операций организовать с помощью меню.
+
+**[Открыть код (lr_lists.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
 ____
 *Implement a linear list consisting of 20 elements of a given type. The interface must include the following operations:*
 - *creating a list;*
@@ -63,6 +71,8 @@ ____
 - *Inclusion of a new element in the beginning of the list.*
 - *Removing an element from the beginning of the list.*
 *After performing the include or remove operations, display the contents of the list. Organize operations using the menu.*
+
+**[Open code (lr_lists.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
 
 ## 4️⃣ Поиск / Search (lr_search):
 Цель работы - изучить основные принципы работы алгоритмов поиска, исследовать их свойства: 
@@ -77,6 +87,8 @@ ____
 - Оценить длительность поиска для различных значений размеров последовательностей (начиная с 10000 до 200000 элементов массива, провести измерения не менее, чем для 10 разных размерностей).
 - Для каждой размерности рассматриваются случаи нахождения ключа поиска в начале, в середине и в конце массива.
 - Для алгоритмов BLS и SLS кроме подсчета времени, необходимого для поиска, требуется определить сколько раз выполняются операции сравнения (сравнение ключа с элементом массива, а также в одном из этих двух алгоритмов добавляется подсчет сравнений при анализе индекса элемента массива в цикле… ).
+
+**[Открыть код (lr_search.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
 ____
 
 *The purpose of the work is to study the basic principles of the search algorithms, to explore their properties:*
@@ -91,3 +103,6 @@ ____
 - *Estimate the duration of the search for different sizes of sequences (starting from 10,000 to 200,000 array elements, take measurements for at least 10 different dimensions).*
 - *For each dimension, the cases of finding the search key at the beginning, in the middle and at the end of the array are considered.*
 - *For the BLS and SLS algorithms, in addition to counting the time required for the search, it is required to determine how many times comparison operations are performed (comparison of the key with an array element, and also in one of these two algorithms, a count of comparisons is added when analyzing the index of an array element in a loop ...).*
+
+**[Open code (lr_search.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
+

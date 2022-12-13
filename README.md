@@ -128,3 +128,27 @@ after the first one.*
 
 **💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_arrays.cpp)**
 
+## 6 Графы-2 / Graphs-2 (lr_graphs_2):
+Реализовать:
+- Поиск всех кратчайших путей между двумя вершинами
+- Поиск радиуса, диаметра и центров графа
+- Построить все остовные деревья минимального веса (считая граф неориентированным)
+
+Использовать алгоритмы:
+- Дейкстры
+- Флойда — Уоршелла
+- Прима
+
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs_2.cpp)**
+____
+Implement:
+- Finding all shortest paths between two vertices
+- Finding the radius, diameter and centers of the graph
+- Construct all spanning trees of minimum weight (assuming the graph is undirected)
+
+Use algorithms:
+- Dijkstra
+- Floyd-Warshall
+- Prima
+
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs_2.cpp)**

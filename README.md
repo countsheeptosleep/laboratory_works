@@ -20,6 +20,8 @@ ____
 *Intermediate results must be presented.*
 *For each shortest path, indicate the previous vertices.*
 
+**[код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_graphs.cpp)**
+
 ## 2️⃣ Очереди / Queues (lr_queues):
 Программно реализовать очередь с приоритетами в виде линейного списка с символьными элементами.
 Выполнение операций организовать с помощью меню:

@@ -201,3 +201,38 @@ Implement:
 - finding the sum of line segments up to the main diagonal in which there are no negative elements, as well as lines with the minimum such sum
 
 **💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_matrices.cpp)**
+
+## 9️⃣ Строки / Strings (lr_strings):
+
+Работа со строками в виде массива char.
+
+Реализовать:
+- Ввод из консоли с **входным контролем**
+- Ввод из файла с **входным контролем**
+- Функция очистки строки
+- Поиск слова в строке
+- Удаление повторяющихся слов
+- Сравнение двух слов из двух строк
+- Печать слова из строки
+- Удаление слова
+- Нахождение слов, встречающихся в двух строках
+- Подсчет количества появлений элемента в двух строках
+
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_strings.cpp)**
+____
+
+Working with strings as an array of char.
+
+Implement:
+- Input from console with **input control**
+- Input from file with **input control**
+- Line cleaning function
+- Search for a word in a string
+- Remove duplicate words
+- Comparing two words from two strings
+- Printing a word from a string
+- Deleting a word
+- Finding words occurring in two strings
+- Counting the number of occurrences of an element in two lines
+
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_strings.cpp)**

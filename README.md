@@ -36,7 +36,7 @@ ____
 
 Приоритеты задать произвольно в виде целых чисел. Наивысший приоритет у меньшего значения. Совпадение приоритетов - разрешено
 
-**💻[Открыть код (lr_queues.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
 ____
 *Implement a priority queue as a linear list with character elements.*
 *Organize operations using the menu:*
@@ -49,7 +49,7 @@ ____
 
 *Priorities can be set arbitrarily as integers. The lowest value has the highest priority. Priority match - allowed*
 
-**[Open code (lr_queues.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_queues.cpp)**
 
 ## 3️⃣ Списки / Lists (lr_lists):
 Реализовать линейный список, состоящий из 20 элементов заданного типа. Интерфейс должен включать следующие операции:
@@ -72,7 +72,7 @@ ____
 - *Removing an element from the beginning of the list.*
 *After performing the include or remove operations, display the contents of the list. Organize operations using the menu.*
 
-**[Open code (lr_lists.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
 
 ## 4️⃣ Поиск / Search (lr_search):
 Цель работы - изучить основные принципы работы алгоритмов поиска, исследовать их свойства: 
@@ -88,7 +88,7 @@ ____
 - Для каждой размерности рассматриваются случаи нахождения ключа поиска в начале, в середине и в конце массива.
 - Для алгоритмов BLS и SLS кроме подсчета времени, необходимого для поиска, требуется определить сколько раз выполняются операции сравнения (сравнение ключа с элементом массива, а также в одном из этих двух алгоритмов добавляется подсчет сравнений при анализе индекса элемента массива в цикле… ).
 
-**[Открыть код (lr_search.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
 ____
 
 *The purpose of the work is to study the basic principles of the search algorithms, to explore their properties:*
@@ -104,5 +104,5 @@ ____
 - *For each dimension, the cases of finding the search key at the beginning, in the middle and at the end of the array are considered.*
 - *For the BLS and SLS algorithms, in addition to counting the time required for the search, it is required to determine how many times comparison operations are performed (comparison of the key with an array element, and also in one of these two algorithms, a count of comparisons is added when analyzing the index of an array element in a loop ...).*
 
-**[Open code (lr_search.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_search.cpp)**
 

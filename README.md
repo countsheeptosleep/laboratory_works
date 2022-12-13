@@ -61,7 +61,7 @@ ____
 - Удаление элемента из начала списка.
 После выполнения операций включения или удаления вывести содержимое списка. Выполнение операций организовать с помощью меню.
 
-**[Открыть код (lr_lists.cpp)](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_lists.cpp)**
 ____
 *Implement a linear list consisting of 20 elements of a given type. The interface must include the following operations:*
 - *creating a list;*

@@ -168,7 +168,7 @@ Use algorithms:
 
 **💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_index_sort.cpp)
 ____
-## 7️⃣ Index sort / Index sort (lr_index_sort):
+
 Implement the "Airplane" data structure:
 - Brand
 - Board number

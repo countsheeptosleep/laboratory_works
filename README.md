@@ -1,4 +1,4 @@
-# Лабораторные работы / Laboratory works
+# Лабораторные работы C++ / Laboratory works C++
 Лабораторные работы на C++ для института
 ____
 *Laboratory works in C++ for the institute*

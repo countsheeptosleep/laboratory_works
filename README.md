@@ -116,4 +116,15 @@ ____
 положительных элементов, дублировать все отрицательные элементы только
 после первого из них.
 
-https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_arrays.cpp
+**💻 [Открыть код](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_arrays.cpp)**
+____
+*Purpose: Given a one-dimensional integer array AVec. Find*
+*the smallest element among the positive ones. After it, duplicate everything
+negative elements.*
+
+*Warning: In the case where there are several equal minimum
+positive elements, duplicate all negative elements only
+after the first one.*
+
+**💻 [Open code](https://github.com/countsheeptosleep/laboratory_works/blob/main/lr_arrays.cpp)**
+

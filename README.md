@@ -1,4 +1,4 @@
-# Лабораторные работы C++ / Laboratory works C++
+# Алгоритмы и структуры данных C++ (лабораторные работы) / Laboratory works C++
 Лабораторные работы на C++ для института
 ____
 *Laboratory works in C++ for the institute*
